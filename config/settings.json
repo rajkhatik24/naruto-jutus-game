@@ -1,0 +1,14 @@
+{
+  "camera_index": 0,
+  "camera_width": 960,
+  "camera_height": 540,
+  "window_width": 1280,
+  "window_height": 720,
+  "confidence_threshold": 0.65,
+  "stable_frames": 5,
+  "neutral_frames": 4,
+  "sequence_timeout_seconds": 12,
+  "volume": 0.65,
+  "debug_overlay": true,
+  "fullscreen": false
+}

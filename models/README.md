@@ -1,0 +1,1 @@
+Model weights are NOT bundled. Run `python scripts/setup_model.py` to download the pretrained YOLOX-Nano ONNX model from Kazuhito00/NARUTO-HandSignDetection (MIT). The upstream 416x416 detector uses BGR float32 in [0,255], YOLOX grid decoding, and class ID + 1 to index the labels.csv rows. Do not mistake a missing model for a working detector.

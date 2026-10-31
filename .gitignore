@@ -1,0 +1,17 @@
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Local backups, logs, editor settings and recordings
+backups/
+*.log
+.vscode/
+.idea/
+.env
+.env.*
+!.env.example
+recordings/
+# Download separately with scripts/setup_model.py
+models/*.onnx

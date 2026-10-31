@@ -1,0 +1,19 @@
+{
+  "jutsus": [
+    {
+      "id": "chidori",
+      "name": "Chidori",
+      "character": "Sasuke Uchiha",
+      "signs": [
+        "ox",
+        "hare",
+        "monkey"
+      ],
+      "effect": "lightning",
+      "image": "assets/characters/sasuke_chidori.png",
+      "audio": "assets/audio/chidori.mp3",
+      "duration_seconds": 4,
+      "animation": "assets/effects/chidori_giphy.gif"
+    }
+  ]
+}
